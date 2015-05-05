@@ -26,6 +26,6 @@ Rackspace was recently recognized by the Anita Borg institute as one of the
 If you see something odd, you can also submit a pull request to fix, or file an
 issue if there's a bug!
 
-## More about Rackspace
+## More about Rackspace Developer culture
 
-* link to Youtube videos on Rackspace
+* https://www.youtube.com/watch?v=v_BLYpfjCKE
