@@ -34,3 +34,7 @@ open communities such as OpenStack.
 Equal Employment Opportunity Policy: Rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic. 
 
 The above information has been designed to indicate the general nature and level of work performed by employees in this classification. It is not designed to contain or to be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of the employee assigned to this job.
+
+## How to Apply
+Official applications must be submitted through the [Rackspace Careeers](www.rackspace.com/talent) website, but the hiring managers like browsing resumes/linked-in-profiles emailed to [Keith Bray](mailto:keith.bray@rackspace.com). No agencies
+or recruiters, please. 
