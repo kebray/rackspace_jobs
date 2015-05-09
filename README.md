@@ -10,9 +10,10 @@ If you believe you have what it takes to help us, please apply.
 outlined, you're welcome to apply. Our team thrives off of mentoring one another
 and growing.**
 
-*  [link]
-*  [link]
-*  
+*  [Front-end Developer](https://github.com/kebray/rackspace_jobs/blob/master/front-end-developer.md)
+*  [Full-stack Python Developer](https://github.com/kebray/rackspace_jobs/blob/master/full-stack-python-developer.md)
+*  [Linux Systems Engineer](https://github.com/kebray/rackspace_jobs/blob/master/linux-sytems-engineer.md)
+*  [Manager, Software Development](https://github.com/kebray/rackspace_jobs/blob/master/manager-software-development.md)
 
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
