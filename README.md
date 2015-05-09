@@ -19,9 +19,9 @@ Rackspace was recently recognized by the Anita Borg institute as one of the
 
 **Equal Employment Opportunity Policy**: Rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
 
-## To apply, email your resume to:
-
-*  add info here
+## Official applications
+Official applications must be submitted through the [Rackspace Careeers](www.rackspace.com/talent) website, but the hiring managers like browsing resumes/linked-in-profiles emailed to [Keith Bray](mailto:keith.bray@rackspace.com). No agencies
+or recruiters, please. 
 
 If you see something odd, you can also submit a pull request to fix, or file an
 issue if there's a bug!
